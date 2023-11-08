@@ -1,0 +1,14 @@
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\bin\Debug\net7.0\Lab8.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\bin\Debug\net7.0\Lab8.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\bin\Debug\net7.0\Lab8.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\bin\Debug\net7.0\Lab8.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\bin\Debug\net7.0\Lab8.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\refint\Lab8.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\Lab8.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Применение математической логики в системах управления\Лабы\Лабораторная работа 8\Lab8\obj\Debug\net7.0\ref\Lab8.dll
